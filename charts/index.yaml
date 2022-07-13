@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  event-exporter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-13T18:46:20.509374+05:30"
+    description: A Helm chart for Kubernetes Event Exporter which is exporting events
+      to the prometheus server.
+    digest: 0ad7761eedbd9b5450593076f727aedb7f04458d711381796a43781be2df2f0a
+    name: event-exporter
+    type: application
+    urls:
+    - event-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-13T18:46:20.508466+05:30"
